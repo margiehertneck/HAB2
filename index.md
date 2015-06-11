@@ -27,7 +27,7 @@ High altitude is considered 3000 feet or more above sea level.  Bakers who live 
 
 Simply follow the instructions on the left side of the screen, using your recipe to input the time, temperature and whether your baking product is primarily chocolate or a delicate item, such as those that use meringue for more loft in the batter.
 
-![High Altitude Baking Calculator](C:/Users/margie/Google Drive/Coursera_Data_Scientist/HAB2/HAB.png)
+![High Altitude Baking Calculator](HAB.png)
 
 --- .class #id 
 
